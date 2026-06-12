@@ -5,7 +5,7 @@ import logoGreenLife from "../images/logos/3paypal.png";
 import logoHomeWork from "../images/logos/4nytimes.png";
 import logoMailSmirk from "../images/logos/5morganlewis.jpg";
 import logoNorthAdventures from "../images/logos/6comcast.png";
-import logoPhobiaLight from "../images/7aarp.png";
+import logoPhobiaLight from "../images/logos/7aarp.png";
 import logoUnseal from "../images/logos/8salesforce.webp";
 import Container from "./Container";
 import FadeIn, { FadeInStagger } from "./FadeIn";

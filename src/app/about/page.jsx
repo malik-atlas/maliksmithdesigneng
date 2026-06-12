@@ -10,7 +10,9 @@ const AboutPage = () => {
     <>
       <PageIntro eyebrow="About us" title="Our strength is collaboration">
         <p>
-         My design philosophy has always been "strive for creative clarity." When designers choose the right lens to empathize with users, product experiences become moments of functional delight and a true enhancement to their daily lives. 
+         My design philosophy has always been "strive for creative clarity." 
+         When designers choose the right lens to empathize with users, product experiences
+          become moments of functional delight and a true enhancement to their daily lives.
         </p>
         <div className="mt-10 max-w-2xl space-y-6 text-base">
           <p>

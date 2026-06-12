@@ -7,7 +7,7 @@ const Logo = ({ invert, href, className, children, ...props }) => {
     "black",
     invert ? "text-white hover:text-blue-600" : "text-black hover:text-blue-600"
   );
-  const inner = <span className="relative">{children}</span>;
+  const inner = <span className="relative">Malik Smith</span>;
   if (href) {
     return (
       <Link href={href} className={className} {...props}>

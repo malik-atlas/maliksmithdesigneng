@@ -67,7 +67,7 @@ const Footer = () => {
             </Logo>
           </Link>
           <p className="text-sm text-neutral-700">
-            © Abdullah Agency Inc. {new Date().getFullYear()}
+            © Malik Smith {new Date().getFullYear()}
           </p>
         </div>
       </FadeIn>

@@ -24,7 +24,7 @@ const Cultures = () => {
             Working closely with engineering leads, I am able to deliver functional design specs from day one. 
           </GridListItem>
           <GridListItem title="Teamwork" invert>
-            Nothing gets built in a silo so it&apos;s important to align with stakeholders on how disparate prioirites can still intersect at a single north star vision. 
+            Nothing gets built in a silo so it&apos;s important to align with stakeholders on how disparate prioirites can still intersect within a single north star vision. 
           </GridListItem>
         </GridList>
       </Container>

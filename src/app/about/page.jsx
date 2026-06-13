@@ -18,9 +18,7 @@ const AboutPage = () => {
           <p>
             For over 15 years, I&apos;ve helped cross-functional teams deliver human-centered enterprise and consumer products, apps and websites at scale. My passion for technology, teams and innovation motivate me to keep striving forward. 
           </p>
-          <p>
-          Throughout my career, I have prided myself on fostering an environment of effective cross-collaboration and a joy for good design and humanity.
-          </p>
+      
         </div>
       </PageIntro>
       <Container className="mt-16">

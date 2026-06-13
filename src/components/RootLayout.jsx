@@ -7,6 +7,7 @@ import Link from "next/link";
 import Logo from "./Logo";
 import { HiMenuAlt4 } from "react-icons/hi";
 import { IoMdClose } from "react-icons/io";
+import Button from "./Button";
 import clsx from "clsx";
 import Offices from "./Offices";
 import SocialMedia from "./SocialMedia";
@@ -26,9 +27,10 @@ const Header = ({
       <div className="flex items-center justify-between">
         {/* Logo */}
         <Link href={"/"} aria-label="Home">
-          <Logo invert={invert}>Malik Smith</Logo>
+          <Logo invert={invert}>Abdullah Agency</Logo>
         </Link>
-       
+        <div className="flex items-center gap-x-8">
+   
           <button
             ref={toggleRef}
             type="button"

@@ -10,6 +10,7 @@ const AboutPage = () => {
     <>
       <PageIntro eyebrow="About me" title="My strength is collaboration">
         <p>
+          <img src="images/headshot.jpg" alt="Headshot" /> 
          My design philosophy has always been  &quot;strive for creative clarity.&quot; 
          When designers choose the right lens to empathize with users, product experiences
           become moments of functional delight and a true enhancement to their daily lives.

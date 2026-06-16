@@ -8,3 +8,9 @@
   font-stretch: 75% 125%;
   src: url("../fonts//Mona-Sans.var.woff2");
 }
+
+
+.sample { margin: 5rem 0 5rem 0; }
+.blurb strong { margin-bottom: 1.5rem; }
+
+.sample image {margin: 2rem 0 2rem 0; }

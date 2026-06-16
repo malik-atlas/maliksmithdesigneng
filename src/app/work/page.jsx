@@ -1,25 +1,25 @@
 import PageIntro from "@/components/PageIntro";
 import React from "react";
 import Image from "next/image"; 
-import Union from "../../images/samples/union-benefits_sm.jpg"; 
-import Salesforce from "../../images/samples/salesforce_sm.jpg"; 
-import Vanguard from "../../images/samples/vanguard_sm.jpg"; 
+import Union from ".//samples/union-benefits_sm.jpg"; 
+import Salesforce from ".//samples/salesforce_sm.jpg"; 
+import Vanguard from ".//samples/vanguard_sm.jpg"; 
 
 
-import Care4Today1 from "../../images/samples/care4today-1.jpg"; 
-import Care4Today2 from "../../images/samples/care4today-2.jpg"; 
-import Care4Today3 from "../../images/samples/care4today-3.jpg"; 
-import Care4Today4 from "../../images/samples/care4today-4.jpg"; 
-import Care4Today5 from "../../images/samples/care4today-5.jpg"; 
+import Care4Today1 from ".//samples/care4today-1.jpg"; 
+import Care4Today2 from ".//samples/care4today-2.jpg"; 
+import Care4Today3 from ".//samples/care4today-3.jpg"; 
+import Care4Today4 from ".//samples/care4today-4.jpg"; 
+import Care4Today5 from ".//samples/care4today-5.jpg"; 
 
 
-import Kratos1 from "../../images/samples/kratos-1.jpg"; 
-import Kratos2 from "../../images/samples/kratos-2.jpg"; 
+import Kratos1 from ".//samples/kratos-1.jpg"; 
+import Kratos2 from ".//samples/kratos-2.jpg"; 
 
 
-import AARP1 from "../../images/samples/aarp-1.jpg"; 
-import AARP2 from "../../images/samples/aarp-2.jpg"; 
-import AARP3 from "../../images/samples/aarp-3.jpg"; 
+import AARP1 from ".//samples/aarp-1.jpg"; 
+import AARP2 from ".//samples/aarp-2.jpg"; 
+import AARP3 from ".//samples/aarp-3.jpg"; 
 
 
 

@@ -54,7 +54,7 @@ const WorkPage = () => {
             placeholder="blur" // Optional: adds a blur-up effect while loading
           />
         </p>
-        <p class="blurb"><strong>Salesforce - Service Catalog MVP 2</strong> <br/> As the sole UX designer for Salesforce’s Service Catalog, a self-service employee app, I aimed to streamline user flows and introduce a strategic home screen to accelerate task completion. Collaborating with a senior product manager and lead engineer, I identified key use cases, reduced friction in user flows, and designed a targeted home screen, new empty state screens, and toast notifications. After iterating on two to three concepts, the final design was approved for development, refreshing critical interface elements and improving the speed of ticketed request creation and checkout times.</p>
+        <p class="blurb"><strong>Salesforce - Service Catalog MVP 2</strong> <br/> As the sole UX designer for Salesforce&apos;s Service Catalog, a self-service employee app, I aimed to streamline user flows and introduce a strategic home screen to accelerate task completion. Collaborating with a senior product manager and lead engineer, I identified key use cases, reduced friction in user flows, and designed a targeted home screen, new empty state screens, and toast notifications. After iterating on two to three concepts, the final design was approved for development, refreshing critical interface elements and improving the speed of ticketed request creation and checkout times.</p>
 
 
 
@@ -69,7 +69,7 @@ const WorkPage = () => {
             placeholder="blur" // Optional: adds a blur-up effect while loading
           />
         </p>
-        <p class="blurb"><strong>Vanguard</strong> <br/> As team lead for Vanguard, the world’s second-largest asset management firm with nearly $8 trillion in assets, I designed retail product pages to convert prospects into 'investor owners' by highlighting the ‘Why Vanguard’ message and investor journey. Collaborating with a UX director, senior product owner, content strategist, and engineering lead, I created user-friendly pages to educate prospects and support informed investment decisions.</p>
+        <p class="blurb"><strong>Vanguard</strong> <br/> As team lead for Vanguard, the world&apos;s second-largest asset management firm with nearly $8 trillion in assets, I designed retail product pages to convert prospects into &apos;investor owners&apos; by highlighting the &apos;Why Vanguard&apos; message and investor journey. Collaborating with a UX director, senior product owner, content strategist, and engineering lead, I created user-friendly pages to educate prospects and support informed investment decisions.</p>
 
 
 

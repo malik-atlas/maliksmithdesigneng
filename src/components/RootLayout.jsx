@@ -83,7 +83,7 @@ const Navigation = () => {
   return (
     <nav className="mt-px font-display text-5xl font-medium tracking-tight text-white">
       <NavigationRow>
-        <NavigationItem href="/work">Our Work</NavigationItem>
+        <NavigationItem href="/work">My Work</NavigationItem>
         <NavigationItem href="/about">About Us</NavigationItem>
       </NavigationRow>
       <NavigationRow>

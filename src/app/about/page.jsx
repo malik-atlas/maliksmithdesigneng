@@ -8,7 +8,7 @@ import React from "react";
 const AboutPage = () => {
   return (
     <>
-      <PageIntro eyebrow="About me" title="My strength is collaboration">
+      <PageIntro eyebrow="About me" title="My strength is vision">
         <p>
          My design philosophy has always been  &quot;strive for creative clarity.&quot; 
          When designers choose the right lens to empathize with users, product experiences

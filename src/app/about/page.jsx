@@ -14,7 +14,7 @@ const AboutPage = () => {
         </p>
         <div className="mt-10 max-w-2xl space-y-6 text-base">
           <p>
-           I bridge the gap between "design intent" and "engineering reality." By embedding technical constraints into the earliest phases of the design cycle, I ensure that what we build is not only elegant but fundamentally scalable. My focus is on creating design governance that empowers cross-functional teams to move with autonomy and speed, anchored by a singular, unwavering North Star.
+           I bridge the gap between &apos;design intent`&apos; and &apos;engineering reality.&apos; By embedding technical constraints into the earliest phases of the design cycle, I ensure that what we build is not only elegant but fundamentally scalable. My focus is on creating design governance that empowers cross-functional teams to move with autonomy and speed, anchored by a singular, unwavering North Star.
           </p>
       
         </div>

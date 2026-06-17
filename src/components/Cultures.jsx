@@ -7,7 +7,7 @@ const Cultures = () => {
   return (
     <div className="mt-24 rounded-4xl bg-neutral-950 py-24 sm:mt-32 lg:mt-40 lg:py-32">
       <SectionIntro
-        eyebrow="My culture"
+        eyebrow="The Principal Value Set"
         title="Balancing passion for technology with a passion for life."
         invert
       >
@@ -17,15 +17,12 @@ const Cultures = () => {
       </SectionIntro>
       <Container className="mt-16">
         <GridList>
-          <GridListItem title="Empathy" invert>
-            By understanding the mental models of customers, I can empathize more accurately. 
-          </GridListItem>
-          <GridListItem title="Technical Constraints" invert>
-            Working closely with engineering leads, I am able to deliver functional design specs from day one. 
-          </GridListItem>
-          <GridListItem title="Teamwork" invert>
-            Nothing gets built in a silo so it&apos;s important to align with stakeholders on how disparate prioirites can still intersect within a single north star vision. 
-          </GridListItem>
+          <GridListItem title="Systemic Empathy" invert>
+I treat empathy as a data-informed discipline. By mapping complex mental models against business logic, I ensure that the product is as sustainable for the company as it is delightful for the user.          </GridListItem>
+          <GridListItem title="Architectural Literacy" invert>
+ I operate as a technical partner to engineering. I speak the language of the stack, which allows me to deliver high-fidelity design specifications that align perfectly with our architectural requirements, reducing technical debt from day one.          </GridListItem>
+          <GridListItem title="Strategic Alignment" invert>
+I specialize in the "intersection of priorities." In large-scale organizations, competing interests are inevitable. My role is to harmonize these disparate threads into a unified, executive-level vision that keeps the entire organization pointed in the same direction.          </GridListItem>
         </GridList>
       </Container>
     </div>

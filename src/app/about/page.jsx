@@ -8,15 +8,13 @@ import React from "react";
 const AboutPage = () => {
   return (
     <>
-      <PageIntro eyebrow="About me" title="My strength is vision">
+      <PageIntro eyebrow="About me" title="Vision as architecture">
         <p>
-         My design philosophy has always been  &quot;strive for creative clarity.&quot; 
-         When designers choose the right lens to empathize with users, product experiences
-          become moments of functional delight and a true enhancement to their daily lives.
+         My work exists at the intersection of complex systems, human behavior, and business strategy. I don't just design products; I architect the ecosystems they inhabit. For over 15 years, I have helped global institutions and tech-forward startups replace operational friction with clarity, transforming enterprise-scale challenges into intuitive, high-velocity experiences.
         </p>
         <div className="mt-10 max-w-2xl space-y-6 text-base">
           <p>
-            For over 15 years, I&apos;ve helped cross-functional teams deliver human-centered enterprise and consumer products, apps and websites at scale. My passion for technology, teams and innovation motivate me to keep striving forward. 
+           I bridge the gap between "design intent" and "engineering reality." By embedding technical constraints into the earliest phases of the design cycle, I ensure that what we build is not only elegant but fundamentally scalable. My focus is on creating design governance that empowers cross-functional teams to move with autonomy and speed, anchored by a singular, unwavering North Star.
           </p>
       
         </div>
